@@ -26,11 +26,11 @@
     "@modelcontextprotocol/sdk": "^1.13.2",
     "@mondaydotcomorg/agent-toolkit": "*",
     "dotenv": "^16.4.7",
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^2.7.0"
   },
   "devDependencies": {
     "@types/jest": "^29.5.12",
-    "@types/node-fetch": "^2.6.4",
+    "@types/node-fetch": "^2.6.11",
     "eslint": "^8.56.0",
     "jest": "^29.7.0",
     "prettier": "^3.2.4",

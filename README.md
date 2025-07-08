@@ -14,11 +14,13 @@ https://github.com/user-attachments/assets/ed8d24e1-256b-4f6b-9d84-38e54a8703fd
 
 Before running the MCP server, make sure you have:
 
-1. Node v20 or higher installed
+1. Node v16 or higher installed (v20+ recommended)
 2. NPM v5.2.0 or higher installed
 3. Either:
    - [Nango](https://nango.dev) setup with Monday.com integration (recommended)
    - [Monday.com API key](https://developer.monday.com/api-reference/docs/authentication) (legacy)
+
+**Note for Docker users:** This version uses node-fetch v2.7.0 for better compatibility with older Node.js versions and Docker containers.
 
 ## ⚙️ Usage
 
